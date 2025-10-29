@@ -46,7 +46,7 @@
   <img width="12" />
 
   <a href="https://www.kicad.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/KiCad_logo_2020.png" height="40" alt="KiCad logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kicad/kicad-original.svg" height="40" alt="KiCad logo" />
   </a>
 </div>
   
