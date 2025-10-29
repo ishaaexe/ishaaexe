@@ -23,18 +23,33 @@
   - ⚡ In my free time, I enjoy exploring tech and building projects  
 </p>  
 
-<h3 align="left">🛠 Languages and Tools</h3> 
-<div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />   
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />   
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />   
-  <img width="12" />   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />   
+<h3 align="left">🛠 Languages and Tools</h3>
+<div align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  </a>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/KiCad-Logo.svg" height="40" alt="KiCad logo" />
-</div>  
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.kicad.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/KiCad_logo_2020.png" height="40" alt="KiCad logo" />
+  </a>
+</div>
+  
 
 <h3 align="left">🔥 My GitHub Stats</h3> 
 <div align="center">  
