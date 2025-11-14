@@ -56,12 +56,6 @@
   <img src="https://streak-stats.demolab.com?user=ishaaexe&theme=radical&hide_border=false&border_radius=5" height="220" alt="streak graph" /> 
 </div>  
 
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=ishaaexe&theme=radical&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" /> 
-</div>  
-
-<div align="center">  
-  <img src="https://github.com/ishaaexe/ishaaexe/raw/output/github-contribution-grid-snake.svg" alt="snake animation" /> 
-</div>  
+ 
 
 <h3 align="center">Thanks for visiting! 🌸</h3> 
